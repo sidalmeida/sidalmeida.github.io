@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Sidnei Almeida
 ---
-
+## Sidnei Almeida
 Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**, apaixonado por **Machine Learning**, **Inteligência Artificial** e **análise preditiva**.
 
 ---

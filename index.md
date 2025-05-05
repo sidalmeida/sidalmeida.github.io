@@ -50,7 +50,7 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 - [LinkedIn](https://linkedin.com/in/saaelmeida93)
 - [GitHub](https://github.com/sidalmeida)
 - [sidnei.almeida1806@gmail.com](mailto:sidnei.almeida1806@gmail.com)
-
+- [WhatsApp](https://wa.me/5494991746969)
   
 ---
 

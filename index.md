@@ -3,43 +3,38 @@ layout: default
 title: Sidnei Almeida
 ---
 
-# Olá, eu sou Sidnei Almeida
+# Sidnei Almeida
 
-Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**, com foco em **Machine Learning** e **Inteligência Artificial**. Tenho experiência em **análise preditiva** e estou sempre buscando melhorar minhas habilidades e aplicar soluções inovadoras para problemas reais.
-
-Minha missão é alavancar a combinação de conhecimento técnico e visão estratégica para criar modelos eficazes e de alto impacto.
+Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**, apaixonado por **Machine Learning**, **Inteligência Artificial** e **análise preditiva**.
 
 ---
 
 ## Foco em IA e Machine Learning
 
-- Criação e avaliação de modelos supervisionados (Regressão Linear, Regressão Logística, Random Forest, SVM, XGBoost)
-- Modelagem preditiva aplicada à análise de empresas e indicadores econômicos
-- Técnicas de **feature engineering** para otimização de modelos
-- Uso de métricas: `RMSE`, `MAE`, `R²`, `F1-Score`, `Precision`, `Recall`, `ROC-AUC`
+- Modelos supervisionados: Regressão Linear, Random Forest, XGBoost
+- Análise preditiva de empresas e indicadores econômicos
+- Feature engineering para melhorar a performance
+- Métricas: `RMSE`, `MAE`, `R²`, `F1-Score`
 - Validação cruzada e ajuste de hiperparâmetros
 - Clusterização com `KMeans`
-- Aplicação com bibliotecas: `scikit-learn`, `xgboost`, `statsmodels`
 
 ---
 
-## Habilidades Técnicas
+## Habilidades técnicas
 
-- Programação em Python para análise de dados
-- APIs para coleta de dados econômicos (World Bank, Trading Economics)
-- Desenvolvimento de dashboards interativos com `Streamlit`
-- Análise exploratória com `pandas`, `matplotlib`, `seaborn`
-- Criação de pipelines de pré-processamento e modelagem
-- Conhecimento em SQL, PostgreSQL e versionamento com Git
+- Python para análise e automação de dados
+- APIs públicas (World Bank, Trading Economics)
+- Dashboards interativos com `Streamlit`
+- Análise exploratória com `pandas`, `matplotlib`
+- Pipelines de pré-processamento e modelagem
 
 ---
 
-## Áreas de Interesse
+## Áreas de interesse
 
 - Inteligência Artificial aplicada a negócios
 - Previsões financeiras e otimização de processos
-- Desenvolvimento de sistemas de recomendação
-- Interpretação de modelos com técnicas de explainability (SHAP, LIME)
+- Sistemas de recomendação e explainability
 
 ---
 
@@ -47,7 +42,6 @@ Minha missão é alavancar a combinação de conhecimento técnico e visão estr
 
 - Redes neurais com `TensorFlow` e `Keras`
 - Deploy de modelos com Docker e FastAPI
-- Visualizações avançadas com `Plotly` e `Altair`
 
 ---
 
@@ -55,8 +49,7 @@ Minha missão é alavancar a combinação de conhecimento técnico e visão estr
 
 - [LinkedIn](https://linkedin.com/in/saaelmeida93)
 - [GitHub](https://github.com/sidalmeida)
-- Email: `sidnei.almeida1806@gmail.com`
-- WhatsApp: `(54)99174-6969`
+- Email: [sidnei.almeida1806@gmail.com](mailto:sidnei.almeida1806@gmail.com)
 
 ---
 

@@ -49,8 +49,8 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 
 - [LinkedIn](https://linkedin.com/in/saaelmeida93)
 - [GitHub](https://github.com/sidalmeida)
-- Email: [sidnei.almeida1806@gmail.com](mailto:sidnei.almeida1806@gmail.com)
-
+- [sidnei.almeida1806@gmail.com](mailto:sidnei.almeida1806@gmail.com)
+- [WhatsApp](https://wa.me/5494991746969)
 ---
 
 > “Persistência, autodidatismo e paixão por aprender definem minha jornada.”

@@ -14,18 +14,18 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 - Modelos supervisionados: Regressão Linear, Random Forest, XGBoost
 - Análise preditiva de empresas e indicadores econômicos
 - Feature engineering para melhorar a performance
-- Métricas: `RMSE`, `MAE`, `R²`, `F1-Score`
+- Métricas: **RMSE**, **MAE**, **R²**, **F1-Score**
 - Validação cruzada e ajuste de hiperparâmetros
-- Clusterização com `KMeans`
+- Clusterização com **KMeans**
 
 ---
 
 ## Habilidades técnicas
 
-- Python para análise e automação de dados
-- APIs públicas (World Bank, Trading Economics)
-- Dashboards interativos com `Streamlit`
-- Análise exploratória com `pandas`, `matplotlib`
+- **Python** para análise e automação de dados
+- APIs públicas (**World Bank**, **Trading Economics**)
+- Dashboards interativos com **Streamlit**
+- Análise exploratória com **pandas**, **matplotlib**
 - Pipelines de pré-processamento e modelagem
 
 ---
@@ -40,8 +40,8 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 
 ## Em aprendizado
 
-- Redes neurais com `TensorFlow` e `Keras`
-- Deploy de modelos com Docker e FastAPI
+- Redes neurais com **TensorFlow** e **Keras**
+- Deploy de modelos com **Docker** e **FastAPI**
 
 ---
 
@@ -50,7 +50,6 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 - [LinkedIn](https://linkedin.com/in/saaelmeida93)
 - [GitHub](https://github.com/sidalmeida)
 - [sidnei.almeida1806@gmail.com](mailto:sidnei.almeida1806@gmail.com)
-- [WhatsApp](https://wa.me/5494991746969)
 ---
 
 > “Persistência, autodidatismo e paixão por aprender definem minha jornada.”

@@ -3,47 +3,47 @@ layout: default
 title: Sidnei Almeida
 ---
 
-# 👋 Olá, eu sou Sidnei Almeida
+# Olá, eu sou Sidnei Almeida
 
-Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**, apaixonado por **Machine Learning**, **Inteligência Artificial** e **análise preditiva**. Estou em constante evolução, estudando, testando e aplicando soluções inteligentes para desafios reais.
+Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**, com foco em **Machine Learning** e **Inteligência Artificial**. Tenho experiência em **análise preditiva** e estou sempre buscando melhorar minhas habilidades e aplicar soluções inovadoras para problemas reais.
 
-🎯 Minha missão é unir conhecimento técnico com visão estratégica para desenvolver modelos robustos, confiáveis e aplicáveis ao mercado.
+Minha missão é alavancar a combinação de conhecimento técnico e visão estratégica para criar modelos eficazes e de alto impacto.
 
 ---
 
-## 🧠 Foco em IA e Machine Learning
+## Foco em IA e Machine Learning
 
 - Criação e avaliação de modelos supervisionados (Regressão Linear, Regressão Logística, Random Forest, SVM, XGBoost)
 - Modelagem preditiva aplicada à análise de empresas e indicadores econômicos
-- Técnicas de **feature engineering** para melhorar a performance dos modelos
-- Uso de métricas como: `RMSE`, `MAE`, `R²`, `F1-Score`, `Precision`, `Recall`, `ROC-AUC`
-- Processos de validação cruzada e ajuste de hiperparâmetros
-- Clusterização com `KMeans` para segmentação e criação de perfis
-- Aplicação prática com bibliotecas: `scikit-learn`, `xgboost`, `statsmodels`
+- Técnicas de **feature engineering** para otimização de modelos
+- Uso de métricas: `RMSE`, `MAE`, `R²`, `F1-Score`, `Precision`, `Recall`, `ROC-AUC`
+- Validação cruzada e ajuste de hiperparâmetros
+- Clusterização com `KMeans`
+- Aplicação com bibliotecas: `scikit-learn`, `xgboost`, `statsmodels`
 
 ---
 
-## 📊 Habilidades técnicas
+## Habilidades Técnicas
 
-- Linguagem Python para análise e automação de dados
-- APIs públicas para coleta de dados econômicos (World Bank, Trading Economics)
-- Construção de dashboards interativos com `Streamlit`
+- Programação em Python para análise de dados
+- APIs para coleta de dados econômicos (World Bank, Trading Economics)
+- Desenvolvimento de dashboards interativos com `Streamlit`
 - Análise exploratória com `pandas`, `matplotlib`, `seaborn`
 - Criação de pipelines de pré-processamento e modelagem
-- Noções de SQL, PostgreSQL e versionamento com Git
+- Conhecimento em SQL, PostgreSQL e versionamento com Git
 
 ---
 
-## 🔎 Áreas de interesse
+## Áreas de Interesse
 
 - Inteligência Artificial aplicada a negócios
 - Previsões financeiras e otimização de processos
 - Desenvolvimento de sistemas de recomendação
-- Interpretação de modelos com explainability (SHAP, LIME)
+- Interpretação de modelos com técnicas de explainability (SHAP, LIME)
 
 ---
 
-## 🚀 Em aprendizado
+## Em aprendizado
 
 - Redes neurais com `TensorFlow` e `Keras`
 - Deploy de modelos com Docker e FastAPI
@@ -51,7 +51,7 @@ Sou estudante de **Ciência de Dados** e **Tecnologia em Processos Gerenciais**,
 
 ---
 
-## 📬 Contato
+## Contato
 
 - [LinkedIn](https://linkedin.com/in/saaelmeida93)
 - [GitHub](https://github.com/sidalmeida)
